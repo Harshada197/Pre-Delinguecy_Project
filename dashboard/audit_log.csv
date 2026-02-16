@@ -1,0 +1,4 @@
+timestamp,customer_id,risk_level,action_taken,message_sent
+2026-02-16 13:53:57,1523,MEDIUM,SMS_SENT,"Dear Valued Customer (ID: 1523),
+
+We understand that unexpected changes in income can create financial pressure. As part of our commitment to supporting you through challenging times, we would like to"

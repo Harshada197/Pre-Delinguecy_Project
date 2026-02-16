@@ -1,0 +1,9 @@
+streamlit
+redis
+pandas
+plotly
+kafka-python
+faker
+xgboost
+scikit-learn
+joblib

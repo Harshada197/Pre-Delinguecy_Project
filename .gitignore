@@ -9,9 +9,8 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Data files (large CSVs — keep structure, not data)
-data/transactions_raw.csv
-data/features_dataset.csv
+# ML model (binary - regenerate with train_model.py)
+ml/
 
 # IDE
 .vscode/

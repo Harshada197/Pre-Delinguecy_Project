@@ -30,3 +30,4 @@ features["delinquent"] = features.apply(assign_label, axis=1)
 features.to_csv("data/training_data.csv", index=False)
 
 print("training_data.csv created!")
+ 
